@@ -2,7 +2,7 @@ public class firstTry {
     /*
     public, anlamındaki gibi her yerden ulaşılabileceğini bildirir.
     class isimleri, .java dosyasının adı ile aynı olmak zorundadır.
-    bir java dosyasının içerisinde birden çok class olabilir ancak, birden fazla "public class" dosyası bulunamamaktadır
+    bir java dosyasının içerisinde birden çok class olabilir ancak, birden fazla "public class" classı bulunamamaktadır
 
      java dosyalarının çalıştırılabilir olması için, main "methodu" bulunmak zorundadır.
      */
